@@ -1,0 +1,1 @@
+-El proyecto contiene un README.md que habla sobre el código y su funcionamiento
